@@ -3,3 +3,9 @@ uvicorn>=0.22.0
 google-adk>=1.27.1
 google-auth
 google-api-python-client
+
+
+-----data_agent_requirements----
+google-adk==2.4.*
+mcp==1.29.*
+
